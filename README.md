@@ -1,1 +1,3 @@
 # photo-gallery
+
+Just starting up with the web development course...
